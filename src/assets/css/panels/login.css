@@ -22,14 +22,28 @@
     border: none;
     margin: 2% 0;
     height: 2em;
+<<<<<<< HEAD
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+=======
     background-color: #00bd7a;
     box-shadow: 0 0 5px #00bd7a;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     color: #121212;
     font: normal normal bold 19px/29px Poppins;
     cursor: pointer;
 }
 
 .login-type-btn:hover {
+<<<<<<< HEAD
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+}
+
+.login-type-btn:disabled {
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+=======
     background-color: #006e47;
     box-shadow: 0 0 5px #006e47;
 }
@@ -37,12 +51,19 @@
 .login-type-btn:disabled {
     background-color: #00bd7a;
     box-shadow: 0 0 5px #00bd7a;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     cursor: default;
 }
 
 .login-type-btn:disabled:hover {
+<<<<<<< HEAD
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+    border-radius: 12px;
+=======
     background-color: #00bd7a;
     box-shadow: 0 0 5px #00bd7a;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
 }
 
 .login-card-mojang {
@@ -54,7 +75,11 @@
     background: #121212;
     padding: 0 20px;
     font: normal normal bold 19px/29px Poppins;
+<<<<<<< HEAD
+    color: #ffffff;
+=======
     color: #E1E1E1;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     border-radius: 15px;
     display: none;
 }
@@ -94,16 +119,26 @@
     border: none;
     margin: 2% 0;
     height: 2em;
+<<<<<<< HEAD
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+=======
     background-color: #00bd7a;
     box-shadow: 0 0 5px #00bd7a;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     color: #121212;
     font: normal normal bold 19px/29px Poppins;
     cursor: pointer;
 }
 
 .login-btn:hover {
+<<<<<<< HEAD
+    background-color: #e7be04;
+    box-shadow: 0 0 5px #e7be04;
+=======
     background-color: #006e47;
     box-shadow: 0 0 5px #006e47;
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
 }
 
 .cancel {
@@ -121,4 +156,11 @@
 .cancel:hover:disabled {
     color: #F1F1F1;
     cursor: default;
+<<<<<<< HEAD
+}
+
+.login-card-mojang-input-password {
+    opacity: 0%;
+=======
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
 }

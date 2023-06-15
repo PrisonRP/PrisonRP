@@ -11,6 +11,10 @@ body {
     margin: 0;
     padding: 0;
     user-select: none;
+<<<<<<< HEAD
+    border-radius: 20px;
+=======
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     background: linear-gradient(#00000066, #00000066), url("../images/background/light.jpg") black no-repeat center center scroll;
 }
 
@@ -34,6 +38,10 @@ img {
 .frame {
     background: transparent;
     position: fixed;
+<<<<<<< HEAD
+    border-radius: 20px;
+=======
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
     display: table;
     top: 0px;
     right: 0px;
@@ -148,6 +156,10 @@ img {
     opacity: 0;
     z-index: 0;
     pointer-events: none;
+<<<<<<< HEAD
+    border-radius: 20px;
+=======
+>>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
 }
 
 .active {
