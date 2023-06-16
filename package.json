@@ -1,7 +1,7 @@
 {
     "name": "PrisonRP",
     "preductname": "PrisonRP LAUNCHER",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "description": "Launcher Mincraft du serveur PrisonRP)",
     "main": "src/app.js",
     "author": "Based on Luxxis launcher (Modified by Meek)",
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PrisonRP/Selvania-Launcher.git"
+        "url": "git+https://github.com/PrisonRP/PrisonRP.git"
     }
 }
