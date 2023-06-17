@@ -116,11 +116,7 @@ class Login {
 
         loginBtn.addEventListener("click", async () => {
             cancelMojangBtn.disabled = true;
-<<<<<<< HEAD
             loginBtn.disabled = false;
-=======
-            loginBtn.disabled = true;
->>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
             mailInput.disabled = true;
             passwordInput.disabled = true;
             infoLogin.innerHTML = "Connexion en cours...";
@@ -144,7 +140,6 @@ class Login {
                 return
             }
 
-<<<<<<< HEAD
             if (passwordInput.value >= "0") {
                 infoLogin.innerHTML = "Entrez votre mot de passe"
                 cancelMojangBtn.disabled = false;
@@ -154,8 +149,6 @@ class Login {
                 return
             }
 
-=======
->>>>>>> 1c17041bbaaecc56793723842a3a2a3751f558e9
             let account_connect = await Mojang.login(mailInput.value, passwordInput.value)
 
             if (account_connect == null || account_connect.error) {
