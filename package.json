@@ -2,7 +2,7 @@
     "name": "PrisonRP",
     "preductname": "PrisonRP LAUNCHER",
     "version": "1.8.0",
-    "description": "Launcher Mincraft du serveur PrisonRP)",
+    "description": "Launcher Minecraft du serveur PrisonRP",
     "main": "src/app.js",
     "author": "Based on Luxxis launcher (Modified by Meek)",
     "url": "https://prisonrp.wstr.fr/",
