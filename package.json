@@ -1,7 +1,7 @@
 {
     "name": "PrisonRP",
     "preductname": "PrisonRP LAUNCHER",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "description": "Launcher Minecraft du serveur PrisonRP",
     "main": "src/app.js",
     "author": "Based on Luxxis launcher - Meek",
